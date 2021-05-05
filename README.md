@@ -13,4 +13,8 @@ Play now at coltexpress.jobba.ca
 - Play Colt Express with your Friends
 - Implements Lobby Service, Voice Chat and Matchmaking with Photon Unity Networking
 - Built with Unity and C#
-![pics](pics/winner)
+
+
+### Demo
+
+![alt text](https://github.com/jonayed-i/Colt-Express/blob/main/CE%20pics/CharacterSelection.JPG "Logo Title Text 1")
