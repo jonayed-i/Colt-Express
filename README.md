@@ -5,7 +5,7 @@
 
 In Colt Express, you play a bandit robbing a train at the same time as other bandits, and your goal is to become the richest outlaw of the Old West. 
 
-# [Play now]((https://coltexpress.jobba.ca)
+# Play now at (https://coltexpress.jobba.ca)
 
 
 ## Features
